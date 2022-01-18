@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="FamilyTableViewCell" id="1R7-ZR-Gti" customClass="FamilyTableViewCell" customModule="spectrum_tracker">
+            <rect key="frame" x="0.0" y="0.0" width="614" height="155"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="1R7-ZR-Gti" id="SCh-zq-Efa">
+                <rect key="frame" x="0.0" y="0.0" width="614" height="154.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vrI-pc-XGb">
+                        <rect key="frame" x="0.0" y="44.5" width="614" height="66"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gax-uZ-AoF" customClass="CardView" customModule="spectrum_tracker" customModuleProvider="target">
+                                <rect key="frame" x="5" y="8" width="604" height="50"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Nua-OE-GQn">
+                                        <rect key="frame" x="0.0" y="0.0" width="604" height="50"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" verticalCompressionResistancePriority="1000" text="--" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Om7-ll-tHp">
+                                                <rect key="frame" x="12" y="16" width="531" height="18"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2dV-7j-mWO">
+                                                <rect key="frame" x="543" y="9.5" width="51" height="31"/>
+                                                <color key="onTintColor" red="0.97647058819999999" green="0.43529411759999997" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                <connections>
+                                                    <action selector="onValueChanged:" destination="1R7-ZR-Gti" eventType="valueChanged" id="xey-gZ-4Lt"/>
+                                                </connections>
+                                            </switch>
+                                        </subviews>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="7Zi-WF-GcM"/>
+                                        </constraints>
+                                        <edgeInsets key="layoutMargins" top="0.0" left="12" bottom="0.0" right="12"/>
+                                    </stackView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="Nua-OE-GQn" firstAttribute="top" secondItem="gax-uZ-AoF" secondAttribute="top" id="32z-EF-YwW"/>
+                                    <constraint firstAttribute="bottom" secondItem="Nua-OE-GQn" secondAttribute="bottom" id="3SZ-tG-iHs"/>
+                                    <constraint firstAttribute="trailing" secondItem="Nua-OE-GQn" secondAttribute="trailing" id="Uvo-ll-xaj"/>
+                                    <constraint firstItem="Nua-OE-GQn" firstAttribute="leading" secondItem="gax-uZ-AoF" secondAttribute="leading" id="odq-Qc-gn1"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="gax-uZ-AoF" secondAttribute="trailing" constant="5" id="4TN-Q6-671"/>
+                            <constraint firstAttribute="bottom" secondItem="gax-uZ-AoF" secondAttribute="bottom" constant="8" id="NEq-as-w4N"/>
+                            <constraint firstItem="gax-uZ-AoF" firstAttribute="leading" secondItem="vrI-pc-XGb" secondAttribute="leading" constant="5" id="YOP-fB-Udd"/>
+                            <constraint firstItem="gax-uZ-AoF" firstAttribute="top" secondItem="vrI-pc-XGb" secondAttribute="top" constant="8" id="Yzy-d0-QGX"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="vrI-pc-XGb" firstAttribute="centerX" secondItem="SCh-zq-Efa" secondAttribute="centerX" id="RAK-bv-yQY"/>
+                    <constraint firstItem="vrI-pc-XGb" firstAttribute="width" secondItem="SCh-zq-Efa" secondAttribute="width" id="U9P-tc-696"/>
+                    <constraint firstItem="vrI-pc-XGb" firstAttribute="centerY" secondItem="SCh-zq-Efa" secondAttribute="centerY" id="zYk-bJ-3YE"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="btn_switch" destination="2dV-7j-mWO" id="Xct-Ql-Cfx"/>
+                <outlet property="labelUserName" destination="Om7-ll-tHp" id="Zua-ZO-BgD"/>
+                <outlet property="wrapperView" destination="vrI-pc-XGb" id="rvq-Ue-L5O"/>
+            </connections>
+            <point key="canvasLocation" x="-7" y="143.5"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="ReportEventTableViewCell" id="rEL-o5-3Gm" userLabel="ReportEventTableViewCell" customClass="ReportEventTableViewCell" customModule="spectrum_tracker" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="614" height="155"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="rEL-o5-3Gm" id="n7i-eH-b3a">
+                <rect key="frame" x="0.0" y="0.0" width="614" height="154.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mhp-Cu-Bm4">
+                        <rect key="frame" x="0.0" y="61" width="614" height="33"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="AI6-OQ-zIM">
+                                <rect key="frame" x="0.0" y="0.0" width="614" height="33"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" verticalCompressionResistancePriority="1000" text="--" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wWn-dS-urD">
+                                        <rect key="frame" x="0.0" y="9.5" width="158.5" height="13.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="--" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gwt-k6-GLE">
+                                        <rect key="frame" x="161.5" y="9.5" width="264.5" height="13.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eqW-wh-KyF">
+                                        <rect key="frame" x="429" y="4" width="185" height="25"/>
+                                        <fontDescription key="fontDescription" name="Kefa-Regular" family="Kefa" pointSize="11"/>
+                                        <state key="normal" title="click for address"/>
+                                        <connections>
+                                            <action selector="onClickAddress:" destination="rEL-o5-3Gm" eventType="touchUpInside" id="a05-GY-1Tn"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="eqW-wh-KyF" firstAttribute="width" secondItem="gwt-k6-GLE" secondAttribute="width" multiplier="0.7" id="OwI-wt-Aaa"/>
+                                    <constraint firstItem="wWn-dS-urD" firstAttribute="width" secondItem="gwt-k6-GLE" secondAttribute="width" multiplier="0.6" id="baD-d1-unh"/>
+                                </constraints>
+                                <edgeInsets key="layoutMargins" top="4" left="0.0" bottom="4" right="0.0"/>
+                            </stackView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zgV-KC-zvb">
+                                <rect key="frame" x="5" y="32.5" width="604" height="0.5"/>
+                                <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="0.5" id="5Ft-Er-mEu"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="AI6-OQ-zIM" firstAttribute="leading" secondItem="mhp-Cu-Bm4" secondAttribute="leading" id="AIo-me-scy"/>
+                            <constraint firstAttribute="trailing" secondItem="AI6-OQ-zIM" secondAttribute="trailing" id="an9-0A-wWP"/>
+                            <constraint firstItem="zgV-KC-zvb" firstAttribute="leading" secondItem="mhp-Cu-Bm4" secondAttribute="leading" constant="5" id="cvo-FU-5Qx"/>
+                            <constraint firstAttribute="bottom" secondItem="zgV-KC-zvb" secondAttribute="bottom" id="fnM-5j-CTv"/>
+                            <constraint firstItem="AI6-OQ-zIM" firstAttribute="top" secondItem="mhp-Cu-Bm4" secondAttribute="top" id="j3c-Hg-TnE"/>
+                            <constraint firstAttribute="bottom" secondItem="AI6-OQ-zIM" secondAttribute="bottom" id="kr5-rO-83c"/>
+                            <constraint firstAttribute="trailing" secondItem="zgV-KC-zvb" secondAttribute="trailing" constant="5" id="s06-py-tdS"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="mhp-Cu-Bm4" firstAttribute="width" secondItem="n7i-eH-b3a" secondAttribute="width" id="DDw-df-pAH"/>
+                    <constraint firstItem="mhp-Cu-Bm4" firstAttribute="centerY" secondItem="n7i-eH-b3a" secondAttribute="centerY" id="XwR-Kh-vuK"/>
+                    <constraint firstItem="mhp-Cu-Bm4" firstAttribute="centerX" secondItem="n7i-eH-b3a" secondAttribute="centerX" id="u7G-fh-Gi6"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="label_DateTime" destination="wWn-dS-urD" id="Wjg-TQ-q2y"/>
+                <outlet property="label_Event" destination="gwt-k6-GLE" id="wFe-7v-mpn"/>
+                <outlet property="wrapperView" destination="mhp-Cu-Bm4" id="p2b-Oh-Vg7"/>
+            </connections>
+            <point key="canvasLocation" x="-7" y="143.5"/>
+        </tableViewCell>
+    </objects>
+</document>

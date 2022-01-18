@@ -1,0 +1,611 @@
+/* Class = "UILabel"; text = "Reports"; ObjectID = "03z-U5-Td3"; */
+"03z-U5-Td3.text" = "报告";
+
+/* Class = "UIButton"; normalTitle = "Select All"; ObjectID = "0tO-hf-YjC"; */
+"0tO-hf-YjC.normalTitle" = "报告";
+
+/* Class = "UILabel"; text = "Update Device Information"; ObjectID = "15k-pR-KPD"; */
+"15k-pR-KPD.text" = "更新驱动程序信息";
+
+/* Class = "UILabel"; text = "Share your location"; ObjectID = "1YG-Jy-xHV"; */
+"1YG-Jy-xHV.text" = "分享位置";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "1oX-RC-mtU"; */
+"1oX-RC-mtU.text" = "---";
+
+/* Class = "UILabel"; text = "Monitor"; ObjectID = "2B1-rp-nZg"; */
+"2B1-rp-nZg.text" = "监控";
+
+/* Class = "UILabel"; text = "EXPIRATION DATE"; ObjectID = "2MB-Ts-HVh"; */
+"2MB-Ts-HVh.text" = "有效期";
+
+/* Class = "UITextField"; text = "30"; ObjectID = "2Xo-ZP-U5S"; */
+"2Xo-ZP-U5S.text" = "30";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "2d0-5T-MSE"; */
+"2d0-5T-MSE.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "Zip Code"; ObjectID = "2vO-CV-QRm"; */
+"2vO-CV-QRm.text" = "Zip";
+
+/* Class = "UILabel"; text = "Pressure"; ObjectID = "37F-uu-Bw3"; */
+"37F-uu-Bw3.text" = "压力";
+
+/* Class = "UILabel"; text = "Order Service"; ObjectID = "3CB-5T-aPC"; */
+"3CB-5T-aPC.text" = "订购服务";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "3pe-NI-Loq"; */
+"3pe-NI-Loq.text" = "FAQ";
+
+/* Class = "UILabel"; text = "Sound Alert"; ObjectID = "466-LN-XcG"; */
+"466-LN-XcG.text" = "声音告警";
+
+/* Class = "UILabel"; text = "Plate Number:"; ObjectID = "4Cr-cB-yZD"; */
+"4Cr-cB-yZD.text" = "车牌号:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4GP-5K-QPI"; */
+"4GP-5K-QPI.placeholder" = "电子邮件";
+
+/* Class = "UILabel"; text = "Activate Tracker"; ObjectID = "4cU-CL-mWx"; */
+"4cU-CL-mWx.text" = "激活跟踪器";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4cp-L5-fmC"; */
+"4cp-L5-fmC.placeholder" = "电子邮件";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "5Bq-FO-qsM"; */
+"5Bq-FO-qsM.text" = "状态";
+
+/* Class = "UILabel"; text = "slide on/off to show/hide family and friends location"; ObjectID = "5Lm-WJ-4NW"; */
+"5Lm-WJ-4NW.text" = "滑动开/关以显示/隐藏家人和朋友的位置";
+
+/* Class = "UILabel"; text = "CV CODE"; ObjectID = "5MI-2Q-GcV"; */
+"5MI-2Q-GcV.text" = "安全号";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "6bB-IO-7P8"; */
+"6bB-IO-7P8.normalTitle" = "接受";
+
+/* Class = "UILabel"; text = "Auto\nRenew"; ObjectID = "6k8-jS-yAg"; */
+"6k8-jS-yAg.text" = "自动付费";
+
+/* Class = "UILabel"; text = "Security Code"; ObjectID = "8ZH-UI-z7p"; */
+"8ZH-UI-z7p.text" = "安全号";
+
+/* Class = "UILabel"; text = "Street Address"; ObjectID = "8s1-kp-t8y"; */
+"8s1-kp-t8y.text" = "街道";
+
+/* Class = "UILabel"; text = "Hard Braking"; ObjectID = "9EV-SR-gyk"; */
+"9EV-SR-gyk.text" = "急刹车";
+
+/* Class = "UILabel"; text = "Expiration"; ObjectID = "A1s-hm-kX8"; */
+"A1s-hm-kX8.text" = "有效期";
+
+/* Class = "UILabel"; text = "Keep Screen On"; ObjectID = "BDf-Am-Yuy"; */
+"BDf-Am-Yuy.text" = "保持屏幕开启";
+
+/* Class = "UILabel"; text = "     Forgot password"; ObjectID = "Bcq-LD-hVI"; */
+"Bcq-LD-hVI.text" = "     忘记密码?";
+
+/* Class = "UILabel"; text = "Order Tracker"; ObjectID = "BvY-9P-5a7"; */
+"BvY-9P-5a7.text" = "订单追踪器";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "C0g-0W-djH"; */
+"C0g-0W-djH.text" = "时间:";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "CsA-n5-wBC"; */
+"CsA-n5-wBC.placeholder" = "姓";
+
+/* Class = "UILabel"; text = "Max Speed"; ObjectID = "DH8-sz-sQF"; */
+"DH8-sz-sQF.text" = "最快时速";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "DJH-79-3ep"; */
+"DJH-79-3ep.text" = "---";
+
+/* Class = "UILabel"; text = "Replay"; ObjectID = "Dnf-4V-mAx"; */
+"Dnf-4V-mAx.text" = "回放";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "Dt7-Cy-6VU"; */
+"Dt7-Cy-6VU.text" = "---";
+
+/* Class = "UILabel"; text = "Billing Infomation"; ObjectID = "EL6-xx-1Dm"; */
+"EL6-xx-1Dm.text" = "账单信息";
+
+/* Class = "UILabel"; text = "CVC CODE"; ObjectID = "EYH-8w-fgY"; */
+"EYH-8w-fgY.text" = "CVC";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Fdd-9B-jZF"; */
+"Fdd-9B-jZF.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "GfQ-vU-4Kd"; */
+"GfQ-vU-4Kd.text" = "湿度";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "Gfw-Gg-VvD"; */
+"Gfw-Gg-VvD.normalTitle" = "服务条款";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "HGK-Dt-dDm"; */
+"HGK-Dt-dDm.normalTitle" = "返回";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "HUZ-T6-Bfa"; */
+"HUZ-T6-Bfa.text" = "设置";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "HV9-IE-R0g"; */
+"HV9-IE-R0g.text" = "名字";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "HgO-GW-qcm"; */
+"HgO-GW-qcm.text" = "名字";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "Hjl-lg-uLQ"; */
+"Hjl-lg-uLQ.placeholder" = "名字";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "I0T-wj-g4U"; */
+"I0T-wj-g4U.normalTitle" = "取消";
+
+/* Class = "UITextField"; placeholder = "MMYY"; ObjectID = "I6V-Ua-ypd"; */
+"I6V-Ua-ypd.placeholder" = "MMYY";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "IIs-GU-Qnc"; */
+"IIs-GU-Qnc.text" = "--";
+
+/* Class = "UILabel"; text = "Service Plan:"; ObjectID = "Imd-8k-xAt"; */
+"Imd-8k-xAt.text" = "追踪计划:";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "Iqc-Fh-naI"; */
+"Iqc-Fh-naI.text" = "省";
+
+/* Class = "UILabel"; text = "Family circle"; ObjectID = "ItE-6N-bdg"; */
+"ItE-6N-bdg.text" = "家庭圈";
+
+/* Class = "UIButton"; normalTitle = "ACTIVATE"; ObjectID = "J73-cK-nHe"; */
+"J73-cK-nHe.normalTitle" = "激活跟踪器";
+
+/* Class = "UILabel"; text = "Airplane Mode"; ObjectID = "JQd-EM-WdL"; */
+"JQd-EM-WdL.text" = "飞行模式";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Jwo-K9-YAI"; */
+"Jwo-K9-YAI.placeholder" = "邮箱地址";
+
+/* Class = "UILabel"; text = "Order Tracker"; ObjectID = "K4d-7G-vjC"; */
+"K4d-7G-vjC.text" = "订单追踪器";
+
+/* Class = "UILabel"; text = "Add Alarm"; ObjectID = "KCR-pE-dDI"; */
+"KCR-pE-dDI.text" = "添加报警";
+
+/* Class = "UILabel"; text = "Alarms"; ObjectID = "Kpd-vf-rkJ"; */
+"Kpd-vf-rkJ.text" = "报警";
+
+/* Class = "UILabel"; text = "Color:"; ObjectID = "LZB-or-ouD"; */
+"LZB-or-ouD.text" = "颜色:";
+
+/* Class = "UILabel"; text = "Vibration"; ObjectID = "LZk-Kh-NIY"; */
+"LZk-Kh-NIY.text" = "振动";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "MHA-Pm-ssb"; */
+"MHA-Pm-ssb.text" = "日期";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "MlA-OV-liO"; */
+"MlA-OV-liO.text" = "---";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "Mot-tb-MRv"; */
+"Mot-tb-MRv.text" = "联系我们";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "NOf-xn-Uy1"; */
+"NOf-xn-Uy1.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "Plate"; ObjectID = "NnM-2G-DsU"; */
+"NnM-2G-DsU.text" = "车号";
+
+/* Class = "UILabel"; text = "Enter an email in the box and click the share button to invite family and friends to share your location"; ObjectID = "NzO-Bu-gFy"; */
+"NzO-Bu-gFy.text" = "在框中输入电子邮件，然后单击“共享”按钮邀请家人和朋友共享您的位置";
+
+/* Class = "UILabel"; text = "Data Plan"; ObjectID = "Oba-Oe-Nvc"; */
+"Oba-Oe-Nvc.text" = "流量套餐";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "OgQ-f9-hya"; */
+"OgQ-f9-hya.normalTitle" = "用户注册";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "P2Q-wc-YoI"; */
+"P2Q-wc-YoI.text" = "超速";
+
+/* Class = "UILabel"; text = "Spectrum"; ObjectID = "PCC-pp-J8s"; */
+"PCC-pp-J8s.text" = "Spectrum";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "PFf-XL-Uev"; */
+"PFf-XL-Uev.text" = "|";
+
+/* Class = "UITextField"; placeholder = "Password at least 8 characters"; ObjectID = "PRC-Ut-pgP"; */
+"PRC-Ut-pgP.placeholder" = "密码至少8个字符";
+
+/* Class = "UIButton"; normalTitle = "PLACE YOUR ORDER"; ObjectID = "Phd-cQ-CUW"; */
+"Phd-cQ-CUW.normalTitle" = "下订单";
+
+/* Class = "UILabel"; text = "We also give one week of service\nfor any feedback"; ObjectID = "PsX-rA-Okd"; */
+"PsX-rA-Okd.text" = "我们还会提供一周的服务以获取任何反馈";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Pvh-6A-due"; */
+"Pvh-6A-due.text" = "电子邮件";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "Q5I-zj-E7x"; */
+"Q5I-zj-E7x.normalTitle" = "接受";
+
+/* Class = "UILabel"; text = "Spectrum"; ObjectID = "QBW-FJ-Nn5"; */
+"QBW-FJ-Nn5.text" = "Spectrum";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "QCN-nj-x5J"; */
+"QCN-nj-x5J.text" = "省";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "QTO-tE-Loj"; */
+"QTO-tE-Loj.placeholder" = "电子邮件";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qay-dJ-88Z"; */
+"Qay-dJ-88Z.text" = "Label";
+
+/* Class = "UILabel"; text = "Set Geofence"; ObjectID = "QcJ-bd-5RI"; */
+"QcJ-bd-5RI.text" = "设置围墙";
+
+/* Class = "UILabel"; text = "make it right."; ObjectID = "QeQ-K9-RVw"; */
+"QeQ-K9-RVw.text" = "改正";
+
+/* Class = "UILabel"; text = "Log Out"; ObjectID = "QwH-17-3Fx"; */
+"QwH-17-3Fx.text" = "退出";
+
+/* Class = "UILabel"; text = "Expiration"; ObjectID = "R2G-q3-HWa"; */
+"R2G-q3-HWa.text" = "有效期";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Rtt-aW-2Ec"; */
+"Rtt-aW-2Ec.text" = "0";
+
+/* Class = "UILabel"; text = "Add Device"; ObjectID = "Rx3-UM-Qgd"; */
+"Rx3-UM-Qgd.text" = "添加跟踪器";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "SZk-Vu-AR1"; */
+"SZk-Vu-AR1.placeholder" = "确认密码";
+
+/* Class = "UIButton"; normalTitle = "SELECT"; ObjectID = "Soy-hj-VrX"; */
+"Soy-hj-VrX.normalTitle" = "选择";
+
+/* Class = "UILabel"; text = "Vibration alert"; ObjectID = "T85-N9-RIK"; */
+"T85-N9-RIK.text" = "振动告警";
+
+/* Class = "UITextField"; placeholder = "Password reset code"; ObjectID = "Tbw-M2-ZUC"; */
+"Tbw-M2-ZUC.placeholder" = "请输入验证码";
+
+/* Class = "UILabel"; text = "We'll always"; ObjectID = "Tps-SJ-1GC"; */
+"Tps-SJ-1GC.text" = "我们永远";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "Tuw-hX-lRe"; */
+"Tuw-hX-lRe.text" = "记住密码";
+
+/* Class = "UILabel"; text = "Total:"; ObjectID = "U8j-ta-IAz"; */
+"U8j-ta-IAz.text" = "总计:";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "U9s-8M-wCF"; */
+"U9s-8M-wCF.text" = "地址";
+
+/* Class = "UILabel"; text = "Driver info"; ObjectID = "UCu-VA-2Hr"; */
+"UCu-VA-2Hr.text" = "司机信息";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "URW-Uj-y16"; */
+"URW-Uj-y16.text" = "市";
+
+/* Class = "UIButton"; normalTitle = "UPDATE CREDIT CARD"; ObjectID = "UUL-jA-rfz"; */
+"UUL-jA-rfz.normalTitle" = "跟新信用卡";
+
+/* Class = "UILabel"; text = "Total Stops"; ObjectID = "Ugz-uF-U0j"; */
+"Ugz-uF-U0j.text" = "停车";
+
+/* Class = "UILabel"; text = "Double click to finish drawing"; ObjectID = "Vbj-mH-tPI"; */
+"Vbj-mH-tPI.text" = "双击完成绘图";
+
+/* Class = "UITextField"; text = "80"; ObjectID = "Vpz-zH-Z1S"; */
+"Vpz-zH-Z1S.text" = "80";
+
+/* Class = "UILabel"; text = "Chat Invitation"; ObjectID = "VsN-tE-8ox"; */
+"VsN-tE-8ox.text" = "聊天邀请";
+
+/* Class = "UILabel"; text = "Email Alert"; ObjectID = "Vv8-JD-5oX"; */
+"Vv8-JD-5oX.text" = "电子邮件告警";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "WLp-hg-1de"; */
+"WLp-hg-1de.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "Subscription"; ObjectID = "WPd-gj-q9J"; */
+"WPd-gj-q9J.text" = "付费";
+
+/* Class = "UILabel"; text = "Unplug Device"; ObjectID = "WT6-al-YYG"; */
+"WT6-al-YYG.text" = "断电告警";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "WjV-Xf-XzG"; */
+"WjV-Xf-XzG.normalTitle" = "隐私政策";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "WvA-c8-77M"; */
+"WvA-c8-77M.text" = "联系我们";
+
+/* Class = "UILabel"; text = "Invite friend to chat"; ObjectID = "X08-Pf-eej"; */
+"X08-Pf-eej.text" = "邀请朋友聊天";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "YFJ-i1-p4S"; */
+"YFJ-i1-p4S.text" = "--";
+
+/* Class = "UILabel"; text = "Driver Name:"; ObjectID = "YGs-ML-IIQ"; */
+"YGs-ML-IIQ.text" = "司机:";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "YcB-dt-fUW"; */
+"YcB-dt-fUW.text" = "FAQ";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "YsS-ba-V3O"; */
+"YsS-ba-V3O.text" = "信用卡号";
+
+/* Class = "UILabel"; text = "CREDIT CARD NUMBER"; ObjectID = "Zaf-2Q-7ji"; */
+"Zaf-2Q-7ji.text" = "信用卡号";
+
+/* Class = "UILabel"; text = "OUR PROMISE"; ObjectID = "Zao-HV-SkN"; */
+"Zao-HV-SkN.text" = "我们保证";
+
+/* Class = "UIButton"; normalTitle = "Invite"; ObjectID = "Zd5-oc-hvP"; */
+"Zd5-oc-hvP.normalTitle" = "邀请";
+
+/* Class = "UILabel"; text = "EXPIRATION DATE"; ObjectID = "ZiO-KX-i14"; */
+"ZiO-KX-i14.text" = "有效期";
+
+/* Class = "UIButton"; normalTitle = "SET ALARM"; ObjectID = "Zwl-NG-Teo"; */
+"Zwl-NG-Teo.normalTitle" = "设定闹钟";
+
+/* Class = "UILabel"; text = "Geofence"; ObjectID = "arR-bd-pJt"; */
+"arR-bd-pJt.text" = "虚拟围墙";
+
+/* Class = "UILabel"; text = " "; ObjectID = "b0T-Uc-3Dr"; */
+"b0T-Uc-3Dr.text" = " ";
+
+/* Class = "UILabel"; text = "Speeding"; ObjectID = "bR7-OY-aPK"; */
+"bR7-OY-aPK.text" = "超速";
+
+/* Class = "UIButton"; normalTitle = "Click here about plan details"; ObjectID = "bgG-Oe-F3A"; */
+"bgG-Oe-F3A.normalTitle" = "单击此处了解计划详细信息";
+
+/* Class = "UILabel"; text = "Chat Invitation"; ObjectID = "cRm-rX-7Rl"; */
+"cRm-rX-7Rl.text" = "聊天邀请";
+
+/* Class = "UILabel"; text = "Not Shared User"; ObjectID = "cc2-f5-qdo"; */
+"cc2-f5-qdo.text" = "未共享的用户";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "cef-YK-eyq"; */
+"cef-YK-eyq.placeholder" = "MMYY";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cob-nV-oJ7"; */
+"cob-nV-oJ7.normalTitle" = "进回";
+
+/* Class = "UILabel"; text = "Engine On"; ObjectID = "cog-Ts-qlX"; */
+"cog-Ts-qlX.text" = "点火";
+
+/* Class = "UILabel"; text = "Harsh Accel"; ObjectID = "d4C-5h-WUy"; */
+"d4C-5h-WUy.text" = "急加速";
+
+/* Class = "UILabel"; text = "Order Service"; ObjectID = "dFe-lN-WRP"; */
+"dFe-lN-WRP.text" = "订购服务";
+
+/* Class = "UITextField"; placeholder = "4-8 letters long"; ObjectID = "dMJ-5L-gTe"; */
+"dMJ-5L-gTe.placeholder" = "多4-8字";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "dMU-7K-lgs"; */
+"dMU-7K-lgs.text" = "地址";
+
+/* Class = "UILabel"; text = "PLATE NUMBER"; ObjectID = "dSG-ua-c9K"; */
+"dSG-ua-c9K.text" = "车牌号";
+
+/* Class = "UILabel"; text = "or let us know"; ObjectID = "dSr-u6-jZh"; */
+"dSr-u6-jZh.text" = "或者告示我门";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "dvu-uz-sNs"; */
+"dvu-uz-sNs.normalTitle" = "进回";
+
+/* Class = "UISegmentedControl"; dwY-gT-900.segmentTitles[0] = "FROM"; ObjectID = "dwY-gT-900"; */
+"dwY-gT-900.segmentTitles[0]" = "从";
+
+/* Class = "UISegmentedControl"; dwY-gT-900.segmentTitles[1] = "TO"; ObjectID = "dwY-gT-900"; */
+"dwY-gT-900.segmentTitles[1]" = "到";
+
+/* Class = "UIButton"; normalTitle = "CHECK OUT"; ObjectID = "edN-NE-Ndp"; */
+"edN-NE-Ndp.normalTitle" = "结帐";
+
+/* Class = "UILabel"; text = "Before Tax"; ObjectID = "egG-B1-ny6"; */
+"egG-B1-ny6.text" = "Before Tax";
+
+/* Class = "UILabel"; text = "Expiration Date"; ObjectID = "fFy-2d-4UX"; */
+"fFy-2d-4UX.text" = "有效期";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "feI-74-92c"; */
+"feI-74-92c.text" = "---";
+
+/* Class = "UILabel"; text = "Activate Tracker"; ObjectID = "fpI-6c-9FK"; */
+"fpI-6c-9FK.text" = "激活跟踪器";
+
+/* Class = "UILabel"; text = "if you are not satisfied\nwe will refund 100% of your cost"; ObjectID = "g8i-TE-1Od"; */
+"g8i-TE-1Od.text" = "如果您不满意，我们将退还您100％的费用";
+
+/* Class = "UIButton"; normalTitle = "UPDATE VEHICLE"; ObjectID = "gOY-ZP-mk0"; */
+"gOY-ZP-mk0.normalTitle" = "更新载具";
+
+/* Class = "UILabel"; text = "Time interval to track phone(s)"; ObjectID = "gT1-50-brK"; */
+"gT1-50-brK.text" = "手机追踪间隔";
+
+/* Class = "UILabel"; text = "NAME ON CREDIT CARD"; ObjectID = "gki-nF-epS"; */
+"gki-nF-epS.text" = "持卡人姓名";
+
+/* Class = "UIButton"; normalTitle = "INVITE"; ObjectID = "hLZ-3q-hVm"; */
+"hLZ-3q-hVm.normalTitle" = "邀请";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "hQO-lZ-PAp"; */
+"hQO-lZ-PAp.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "hXx-qT-FEI"; */
+"hXx-qT-FEI.normalTitle" = "拒绝";
+
+/* Class = "UILabel"; text = "Name Of Card"; ObjectID = "hfS-55-8fC"; */
+"hfS-55-8fC.text" = "持卡人姓名";
+
+/* Class = "UILabel"; text = "SPECTRUM ID"; ObjectID = "hi0-JX-nu5"; */
+"hi0-JX-nu5.text" = "SPECTRUM ID";
+
+/* Class = "UILabel"; text = "CARD NUMBER"; ObjectID = "hj0-XK-4Cr"; */
+"hj0-XK-4Cr.text" = "卡号";
+
+/* Class = "UILabel"; text = "Track my phone"; ObjectID = "i3h-9Q-EyG"; */
+"i3h-9Q-EyG.text" = "追踪我的手机";
+
+/* Class = "UILabel"; text = "Enter your email address to get password reset code"; ObjectID = "iFs-Wb-GT0"; */
+"iFs-Wb-GT0.text" = "输入您的电子邮件地址以获取密码重置代码";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "iml-Pt-FvG"; */
+"iml-Pt-FvG.text" = "事件";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "jEX-ME-LAk"; */
+"jEX-ME-LAk.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jd7-8l-3i4"; */
+"jd7-8l-3i4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Replay"; ObjectID = "jxg-nt-jec"; */
+"jxg-nt-jec.text" = "回放";
+
+/* Class = "UILabel"; text = "Text Alert"; ObjectID = "kDs-JI-Ixp"; */
+"kDs-JI-Ixp.text" = "短信告警";
+
+/* Class = "UILabel"; text = "How are we doing?"; ObjectID = "kSx-S2-ezy"; */
+"kSx-S2-ezy.text" = "我们怎么样?";
+
+/* Class = "UILabel"; text = "Monitor"; ObjectID = "kVF-E2-dUE"; */
+"kVF-E2-dUE.text" = "监控";
+
+/* Class = "UILabel"; text = "Tracking Plan"; ObjectID = "kZD-DQ-Viy"; */
+"kZD-DQ-Viy.text" = "追踪计划";
+
+/* Class = "UILabel"; text = "Reports"; ObjectID = "ki8-9X-bRS"; */
+"ki8-9X-bRS.text" = "报告";
+
+/* Class = "UILabel"; text = " 2018"; ObjectID = "kqu-UR-zdW"; */
+"kqu-UR-zdW.text" = " 2018";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "ksT-GV-X98"; */
+"ksT-GV-X98.normalTitle" = "好";
+
+/* Class = "UILabel"; text = "Alert Sound"; ObjectID = "l6X-0K-vtJ"; */
+"l6X-0K-vtJ.text" = "声音告警";
+
+/* Class = "UILabel"; text = "Tax:"; ObjectID = "lB1-G5-fys"; */
+"lB1-G5-fys.text" = "税:";
+
+/* Class = "UILabel"; text = "Temperature"; ObjectID = "lDX-ON-mPO"; */
+"lDX-ON-mPO.text" = "温度";
+
+/* Class = "UILabel"; text = "NAME ON CARD"; ObjectID = "lNU-cT-z4h"; */
+"lNU-cT-z4h.text" = "持卡人姓名";
+
+/* Class = "UILabel"; text = "DRIVER NAME"; ObjectID = "lUc-YC-ak9"; */
+"lUc-YC-ak9.text" = "司机";
+
+/* Class = "UILabel"; text = "Add Geofence"; ObjectID = "mTt-gS-0xE"; */
+"mTt-gS-0xE.text" = "增添围墙";
+
+/* Class = "UILabel"; text = "Text and LTE"; ObjectID = "nXc-iU-Zko"; */
+"nXc-iU-Zko.text" = "文字和LTE";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "nYk-b5-B2A"; */
+"nYk-b5-B2A.text" = "市";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "ncy-vE-ZvD"; */
+"ncy-vE-ZvD.normalTitle" = "拒绝";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "pRI-WH-3pH"; */
+"pRI-WH-3pH.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pRO-71-ijb"; */
+"pRO-71-ijb.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "pSI-zd-NIh"; */
+"pSI-zd-NIh.normalTitle" = "跳跃";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "pfD-Ds-7tn"; */
+"pfD-Ds-7tn.text" = "风";
+
+/* Class = "UILabel"; text = "Harsh Turn"; ObjectID = "qBt-mg-CxG"; */
+"qBt-mg-CxG.text" = "急转弯";
+
+/* Class = "UITextField"; placeholder = "10 digits phone number"; ObjectID = "qEE-PX-GBx"; */
+"qEE-PX-GBx.placeholder" = "手机号码";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qFK-ao-oUI"; */
+"qFK-ao-oUI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "qIy-PE-o8c"; */
+"qIy-PE-o8c.normalTitle" = "用户注册";
+
+/* Class = "UITextField"; placeholder = "Verification Code"; ObjectID = "qes-X1-tPu"; */
+"qes-X1-tPu.placeholder" = "验证码";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "rIr-g4-agE"; */
+"rIr-g4-agE.placeholder" = "电子邮件";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "rf5-1g-Uok"; */
+"rf5-1g-Uok.normalTitle" = "用户注册";
+
+/* Class = "UITextField"; placeholder = "email address"; ObjectID = "sQE-yh-gwx"; */
+"sQE-yh-gwx.placeholder" = "邮箱地址";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "skp-Km-6HT"; */
+"skp-Km-6HT.normalTitle" = "重置密码";
+
+/* Class = "UIButton"; normalTitle = "Draw geofence"; ObjectID = "slt-n7-ia1"; */
+"slt-n7-ia1.normalTitle" = "画围墙";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "t2v-bt-8tc"; */
+"t2v-bt-8tc.normalTitle" = "忘记密码?";
+
+/* Class = "UILabel"; text = "Update device"; ObjectID = "tRT-Od-g9o"; */
+"tRT-Od-g9o.text" = "跟新车辆";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "ttn-nn-Bfl"; */
+"ttn-nn-Bfl.placeholder" = "有效期";
+
+/* Class = "UILabel"; text = "Set Alarms"; ObjectID = "uBP-LH-sYs"; */
+"uBP-LH-sYs.text" = "设定闹钟";
+
+/* Class = "UILabel"; text = "Geofence"; ObjectID = "uQW-ai-QCN"; */
+"uQW-ai-QCN.text" = "虚拟围墙";
+
+/* Class = "UILabel"; text = "Select your vehicle and then click  the map to draw a circle to set geofence. Use browser to set up multiple geofences"; ObjectID = "uUl-hq-ILW"; */
+"uUl-hq-ILW.text" = "Select your vehicle and then click  the map to draw a circle to set geofence. Use browser to set up multiple geofences";
+
+/* Class = "UILabel"; text = "ZIP Code"; ObjectID = "vEI-PR-hOU"; */
+"vEI-PR-hOU.text" = "邮政编码";
+
+/* Class = "UILabel"; text = "     Order Summary"; ObjectID = "vmO-xg-6qN"; */
+"vmO-xg-6qN.text" = "     订单摘要";
+
+/* Class = "UILabel"; text = "Spectrum"; ObjectID = "voy-FM-qSU"; */
+"voy-FM-qSU.text" = "Spectrum";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "wKN-98-38y"; */
+"wKN-98-38y.placeholder" = "密码确认";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "xG9-bL-JgB"; */
+"xG9-bL-JgB.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Log out"; ObjectID = "xUD-oy-c4Z"; */
+"xUD-oy-c4Z.text" = "退出";
+
+/* Class = "UILabel"; text = "No Shared Device"; ObjectID = "xXe-vV-TIX"; */
+"xXe-vV-TIX.text" = "没有共享设备";
+
+/* Class = "UIButton"; normalTitle = "MAKE PAYMENT"; ObjectID = "xa9-9C-7rd"; */
+"xa9-9C-7rd.normalTitle" = "付款";
+
+/* Class = "UITextField"; placeholder = "Email invitation"; ObjectID = "xjE-3K-AbI"; */
+"xjE-3K-AbI.placeholder" = "电子邮件分享";
+
+/* Class = "UILabel"; text = "Love your tracker"; ObjectID = "yx5-Ka-eJ4"; */
+"yx5-Ka-eJ4.text" = "爱你的追踪器";
+
+/* Class = "UILabel"; text = "Engine Off"; ObjectID = "zfW-U6-1Py"; */
+"zfW-U6-1Py.text" = "熄火";
+
+/* Class = "UILabel"; text = "LTE Plan:"; ObjectID = "zpf-RK-uOJ"; */
+"zpf-RK-uOJ.text" = "LTE套餐:";

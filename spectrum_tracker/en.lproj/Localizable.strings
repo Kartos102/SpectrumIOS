@@ -1,0 +1,102 @@
+/* 
+  Localization.strings
+  spectrum_tracker
+
+  Created by Alex Chang on 2020/11/7.
+  Copyright © 2020 JO. All rights reserved.
+*/
+
+
+"red" = "RED";
+"orange" = "ORANE";
+"white" = "WHITE";
+"grey" = "GREY";
+"black" = "BLACK";
+"silver" = "SILVER";
+"blue" = "BLUE";
+"green" = "GREEN";
+"please enter first name" = "please enter first name";
+"please enter last name" = "please enter last name";
+"please enter email" = "please enter email";
+"please enter password" = "please enter password";
+"password confirm does not match" = "password confirm does not match";
+"Weak cell phone signal is detected!" = "Weak cell phone signal is detected!";
+"Yes! internet is unavailable." = "Yes! internet is unavailable.";
+"server connect error" = "server connect error";
+"please enter verification code" = "please enter verification code";
+"register success" = "register success";
+"Upload Success" = "Upload Success";
+"Your device can't use camera." = "Your device can't use camera.";
+"Upload a Image" = "Upload a Image";
+"Choose a filetype to upload..." = "Choose a filetype to upload...";
+"Cancel" = "Cancel";
+"Camera" = "Camera";
+"Phone Library" = "Phone Library";
+"Options" = "Options";
+"Please Select" = "Please Select";
+"Edit Vehicle Info" = "Edit Vehicle Info";
+"Get There" = "Get There";
+"Can't get your location." = "Can't get your location.";
+"Share Location" = "Share Location";
+"Chatting" = "Chatting";
+"Successfully invited to join chat" = "Successfully invited to join chat";
+"invited you to the chat." = "invited you to the chat.";
+"This Week" = "This Week";
+"please select vehicle" = "please select vehicle";
+"No trip. Change to another day." = "No trip. Change to another day.";
+"speeding" = "speeding";
+"harshAcce" = "harshAcce";
+"harshDece" = "harshDece";
+"idling" = "idling";
+"start" = "start";
+"geo" = "geo";
+"all route" = "all route";
+"Unknown Address" = "Unknown Address";
+"expiration date format is wrong. Use mmyy. For example, if expiration date is December 2030, use 1230" = "expiration date format is wrong. Use mmyy. For example, if expiration date is December 2030, use 1230";
+"please enter tracker ID" = "please enter tracker ID";
+"please select Data Plan" = "please select Data Plan";
+"Congratulations!" = "Congratulations!";
+"Your device is activated." = "Your device is activated.";
+"Retry your credit card. If still not working, please contact us for assistance" = "Retry your credit card. If still not working, please contact us for assistance";
+"failed to get user Id" = "failed to get user Id";
+"You have successfully updated credit card info" = "You have successfully updated credit card info";
+"update success" = "update success";
+"please enter driver name" = "please enter driver name";
+"please enter driver phone" = "please enter driver phone";
+"please enter vehicle name" = "please enter vehicle name";
+"REMIND ME LATER" = "REMIND ME LATER";
+"NO THANKS" = "NO THANKS";
+"RATE IT!" = "RATE IT!";
+"Rate Spectrum Tracker" = "Rate Spectrum Tracker";
+"If you enjoy using Spectrum Tracker, please take a moment to rate it. Thanks for your support!" = "If you enjoy using Spectrum Tracker, please take a moment to rate it. Thanks for your support!";
+"No Alarm. Change to another day." = "No Alarm. Change to another day.";
+"Success" = "Success";
+"Fence Name" = "Fence Name";
+"Circle" = "Circle";
+"Polygon" = "Polygon";
+"Draw geofence" = "Draw geofence";
+"Save geofence" = "Save geofence";
+"Successfully invited to join chat" = "Successfully invited to join chat";
+"invited you to the chat" = "invited you to the chat";
+"Invalid Email" = "Invalid Email";
+"Please insert email for share" = "Please insert email for share";
+"Please select users for unshare" = "Please select users for unshare";
+"Max Speed:" = "Max Speed:";
+"Update:" = "Update:";
+"Last report" = "Last report";
+"Alert" = "Alert";
+"Hard Braking" = "Hard Braking";
+"Voltage" = "Voltage";
+"Yes" = "Yes";
+"No" = "No";
+"Distance" = "Distance";
+"Max Speed" = "Max Speed";
+"Total Fuel" = "Total Fuel";
+"Total Stops" = "Total Stops";
+"Rapid Accel" = "Rapid Accel";
+"Hard Braking" = "Hard Braking";
+"Speeding" = "Speeding";
+"Idling" = "Idling";
+"Main Events" = "Main Events";
+"Auto Renew" = "Auto Renew";
+"No Auto Renew" = "No Auto Renew";
